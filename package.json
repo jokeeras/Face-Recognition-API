@@ -1,0 +1,24 @@
+{
+  "name": "face-recognition-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jokeeras/Face-Recognition-API.git"
+  },
+  "author": "Oltean Ioan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jokeeras/Face-Recognition-API/issues"
+  },
+  "homepage": "https://github.com/jokeeras/Face-Recognition-API#readme",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
+}
